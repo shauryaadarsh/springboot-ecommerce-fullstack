@@ -1,1 +1,1 @@
-export { default } from '../reducers/store';
+export default store;
